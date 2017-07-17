@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Course - Week 4 - Course Project
+Getting and Cleaning Data Course - Week 4 - Course Project
 
 # Creating a tidy dataset
 
