@@ -1,5 +1,8 @@
 Getting and Cleaning Data Course
+
 Week 4 - Course Project
+
+Creating a tidy dataset
 
 This is a short description of how the run_analysis.R script works.
 
